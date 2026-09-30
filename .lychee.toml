@@ -15,6 +15,8 @@ exclude = [
   # Connection-reset / empty-reply to automated checks (verified live 2026-09-30)
   "tmate\\.io",
   "zutty\\.org",
+  # HTTP/2 protocol errors on legacy servers (verified live 2026-09-30)
+  "putty\\.org",
 ]
 
 # Be lenient with transient failures but strict about real breakage
