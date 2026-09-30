@@ -17,6 +17,8 @@ exclude = [
   "zutty\\.org",
   # HTTP/2 protocol errors on legacy servers (verified live 2026-09-30)
   "putty\\.org",
+  # Transient 429s from shared runner IPs (passed 2/3 runs; link verified live 2026-09-30)
+  "gnu\\.org",
 ]
 
 # Be lenient with transient failures but strict about real breakage
