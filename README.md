@@ -49,14 +49,14 @@ Emulators built on web technology — maximum extensibility and a familiar hacki
 - [Tabby](https://tabby.sh) — Highly customizable cross-platform terminal app with SSH, serial, and plugin support. *(MIT · ⭐ 74,760)*
 - [Hyper](https://hyper.is) — Extensible terminal built on web technologies (Electron) with a plugin ecosystem. *(MIT · ⭐ 44,743)*
 - [Wave](https://www.waveterm.dev) — Open-source AI-native terminal with workspaces, widgets, and session persistence. *(Apache-2.0 · ⭐ 22,390)*
-- [Electerm](https://electerm.github.io) — Terminal/SSH/SFTP client with sync, themes, and a built-in file manager. *(MIT · ⭐ 15,236)*
+- [Electerm](https://electerm.org) — Terminal/SSH/SFTP client with sync, themes, and a built-in file manager. *(MIT · ⭐ 15,236)*
 - [Extraterm](https://extraterm.org) — Terminal emulator that adds images, rich text, and GUI controls to shell output. Actively maintained (commits 2026). *(MIT · ⭐ 2,826)*
 
 ## Linux Desktop-Integrated Emulators
 
 Emulators that ship with or target Linux desktop environments — deep DE integration, dropdown (quake-style) modes, and tiling-friendly workflows. (15 entries)
 
-- [GNOME Terminal](https://apps.gnome.org/Terminal/) — Default terminal emulator for the GNOME desktop. *(GPL-3.0-or-later · ⭐ 72)*
+- [GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) — Default terminal emulator for the GNOME desktop. *(GPL-3.0-or-later · ⭐ 72)*
 - [GNOME Console](https://apps.gnome.org/Console/) — Simple, modern terminal for GNOME, focused on a clean uncluttered UI. *(GPL-3.0-or-later · ⭐ 75)*
 - [Konsole](https://apps.kde.org/konsole/) — KDE's feature-rich terminal emulator with tabs, profiles, and split views. *(GPL-2.0-or-later)*
 - [Yakuake](https://apps.kde.org/yakuake/) — Drop-down (Quake-style) terminal emulator for KDE, based on Konsole technology. *(GPL-2.0-only)*
@@ -66,7 +66,7 @@ Emulators that ship with or target Linux desktop environments — deep DE integr
 - [QTerminal](https://github.com/lxqt/qterminal) — Lightweight Qt terminal emulator, part of LXQt. *(GPL-2.0-or-later · ⭐ 717)*
 - [Tilda](https://github.com/lanoxx/tilda) — Highly configurable GTK drop-down terminal. *(GPL-2.0-or-later · ⭐ 1,338)*
 - [Xfce4 Terminal](https://docs.xfce.org/apps/terminal/start) — Lightweight terminal emulator for the Xfce desktop. *(GPL-2.0-or-later · ⭐ 44)*
-- [Ptyxis](https://apps.gnome.org/Ptyxis/) — Modern container-focused terminal for GNOME (renamed from Prompt after a trademark conflict). *(GPL-3.0-or-later · ⭐ 123)*
+- [Ptyxis](https://flathub.org/apps/app.devsuite.Ptyxis) — Modern container-focused terminal for GNOME (renamed from Prompt after a trademark conflict). *(GPL-3.0-or-later · ⭐ 123)*
 - [Black Box](https://gitlab.gnome.org/raggesilver/blackbox) — Stylish GTK4 terminal emulator for GNOME. *(GPL-3.0-or-later · ⭐ 152)*
 - [Sakura](https://github.com/dabisu/sakura) — Simple GTK terminal emulator with tabs. *(GPL-2.0-only · ⭐ 230)*
 - [Terminology](https://www.enlightenment.org/about-terminology) — Enlightenment's terminal emulator with rich media display and visual flair. *(BSD-2-Clause · ⭐ 737)*
