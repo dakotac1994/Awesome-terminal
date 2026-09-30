@@ -125,8 +125,8 @@
     "license": "MIT",
     "category": "electron-web",
     "repo": "https://github.com/electerm/electerm",
-    "homepage": "https://electerm.github.io",
-    "official_site": "https://electerm.github.io",
+    "homepage": "https://electerm.org",
+    "official_site": "https://electerm.org",
     "stars": 15236,
     "verified": true,
     "unverified_reason": null
@@ -149,8 +149,8 @@
     "license": "GPL-3.0-or-later",
     "category": "desktop-integrated",
     "repo": "https://gitlab.gnome.org/GNOME/gnome-terminal",
-    "homepage": "https://apps.gnome.org/Terminal/",
-    "official_site": "https://apps.gnome.org/Terminal/",
+    "homepage": "https://gitlab.gnome.org/GNOME/gnome-terminal",
+    "official_site": "https://gitlab.gnome.org/GNOME/gnome-terminal",
     "stars": 72,
     "verified": true,
     "unverified_reason": null
@@ -269,8 +269,8 @@
     "license": "GPL-3.0-or-later",
     "category": "desktop-integrated",
     "repo": "https://gitlab.gnome.org/chergert/ptyxis",
-    "homepage": "https://apps.gnome.org/Ptyxis/",
-    "official_site": "https://apps.gnome.org/Ptyxis/",
+    "homepage": "https://flathub.org/apps/app.devsuite.Ptyxis",
+    "official_site": "https://flathub.org/apps/app.devsuite.Ptyxis",
     "stars": 123,
     "verified": true,
     "unverified_reason": null
