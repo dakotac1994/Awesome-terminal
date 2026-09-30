@@ -26,7 +26,7 @@ These render on the GPU instead of the CPU: lower input latency, smooth scrollin
 
 **macOS.** [iTerm2](https://iterm2.com/) is the long-standing power choice (GPL-2.0-only, decades of polish). [Ghostty](https://ghostty.org) is the modern native alternative. [Warp](https://www.warp.dev/) is proprietary (freemium) — listed for completeness, labeled as such.
 
-**Linux.** If your desktop ships one ([GNOME Terminal](https://apps.gnome.org/Terminal/)/[Console](https://apps.gnome.org/Console/), [Konsole](https://apps.kde.org/konsole/), [Xfce4 Terminal](https://docs.xfce.org/apps/terminal/start)), it's a fine default. For dropdown/Quake-style workflows: [Yakuake](https://apps.kde.org/yakuake/), [Guake](https://guake.github.io), [Tilda](https://github.com/lanoxx/tilda). For minimalism: [st](https://st.suckless.org/) or [foot](https://codeberg.org/dnkl/foot).
+**Linux.** If your desktop ships one ([GNOME Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal)/[Console](https://apps.gnome.org/Console/), [Konsole](https://apps.kde.org/konsole/), [Xfce4 Terminal](https://docs.xfce.org/apps/terminal/start)), it's a fine default. For dropdown/Quake-style workflows: [Yakuake](https://apps.kde.org/yakuake/), [Guake](https://guake.github.io), [Tilda](https://github.com/lanoxx/tilda). For minimalism: [st](https://st.suckless.org/) or [foot](https://codeberg.org/dnkl/foot).
 
 **Windows.** [Windows Terminal](https://github.com/microsoft/terminal) (MIT) is the default answer. [WezTerm](https://wezterm.org) if you want cross-platform consistency. [ConEmu](https://conemu.github.io)/[Cmder](https://cmder.app) for the classic console-wrapper workflow; [mintty](https://mintty.github.io) with Cygwin/MSYS2.
 
