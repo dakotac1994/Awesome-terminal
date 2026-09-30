@@ -1,0 +1,20 @@
+# lychee configuration for awesome-terminal
+# Excludes are regexes — domain-bare patterns cover www/subdomains.
+
+exclude = [
+  # Bot-blocking / aggressive anti-automation
+  "warp\\.dev",
+  "mobaxterm\\.mobatek\\.net",
+  "vandyke\\.com",
+  "royalapps\\.com",
+  "microsoft\\.com",
+  "jetbrains\\.com",
+  "ibm\\.com",
+  # Anti-scraper responses observed during research
+  "codeberg\\.org",
+]
+
+# Be lenient with transient failures but strict about real breakage
+max_retries = 2
+timeout = 20
+accept = [200, 201, 202, 203, 204, 206]
