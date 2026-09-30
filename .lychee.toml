@@ -12,6 +12,9 @@ exclude = [
   "ibm\\.com",
   # Anti-scraper responses observed during research
   "codeberg\\.org",
+  # Connection-reset / empty-reply to automated checks (verified live 2026-09-30)
+  "tmate\\.io",
+  "zutty\\.org",
 ]
 
 # Be lenient with transient failures but strict about real breakage
