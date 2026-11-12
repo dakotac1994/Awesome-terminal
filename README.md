@@ -87,7 +87,7 @@ The old guard and the minimalists: decades-old X11 workhorses and suckless-style
 
 ## Windows & macOS Emulators
 
-Platform-native and platform-first emulators for Windows and macOS. Proprietary products are explicitly labeled. (12 entries)
+Platform-native and platform-first emulators for Windows and macOS. Proprietary products are explicitly labeled. (13 entries)
 
 - [Windows Terminal](https://github.com/microsoft/terminal) — Microsoft's modern multi-shell terminal for Windows. *(MIT · ⭐ 105,038)*
 - [ConEmu](https://conemu.github.io) — Customizable Windows console emulator with tabs and splits. *(BSD-3-Clause · ⭐ 9,265)*
@@ -100,6 +100,7 @@ Platform-native and platform-first emulators for Windows and macOS. Proprietary 
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) — Modern UWP-style terminal emulator for Windows. Actively maintained (2025). *(GPL-3.0-only · ⭐ 9,604)*
 - [iTerm2](https://iterm2.com/) — Feature-rich terminal emulator for macOS. *(GPL-2.0-only · ⭐ 18,107)*
 - [Warp](https://www.warp.dev/) — AI-powered commercial terminal for macOS and Linux (freemium: Free/Build/Max/Business/Enterprise tiers). *(proprietary)*
+- [Mel – the agentic terminal](https://www.openmel.dev) — Commercial terminal for macOS, Windows and Linux with a built-in team of AI coding agents and configurable approvals (Mel Free with your own AI key, plus paid plans). *(proprietary)*
 - [Royal TSX](https://www.royalapps.com) — Commercial remote-management app for macOS with an iTerm2-based terminal plugin (shareware mode free with limits). *(proprietary)*
 
 ## Terminal Multiplexers

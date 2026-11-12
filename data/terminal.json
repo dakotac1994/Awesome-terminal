@@ -552,6 +552,18 @@
     "unverified_reason": null
   },
   {
+    "name": "Mel – the agentic terminal",
+    "description": "Commercial terminal for macOS, Windows and Linux with a built-in team of AI coding agents and configurable approvals (Mel Free with your own AI key, plus paid plans).",
+    "license": "proprietary",
+    "category": "windows-macos",
+    "repo": null,
+    "homepage": "https://www.openmel.dev",
+    "official_site": "https://www.openmel.dev",
+    "stars": null,
+    "verified": true,
+    "unverified_reason": null
+  },
+  {
     "name": "Royal TSX",
     "description": "Commercial remote-management app for macOS with an iTerm2-based terminal plugin (shareware mode free with limits).",
     "license": "proprietary",
